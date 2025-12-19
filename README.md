@@ -18,7 +18,7 @@
 > This file contains the founction used in the item.
 4. main.py
 > This file is the model training file.
-### How to run CS-LightGCL
+### How to run LTCS-LightGCL
 * command
 
 `python main.py `
