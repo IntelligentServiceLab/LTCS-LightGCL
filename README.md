@@ -11,7 +11,7 @@
 >- scipy==1.8.1
 ### File Introduction
 1. model.py
-> This file contains the code of CS-LightGCL.
+> This file contains the code of LTCS-LightGCL.
 2. Aparser.py
 > This file contains information about the setting of hyper-parameters.
 3. utils.py
